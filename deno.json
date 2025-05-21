@@ -6,5 +6,8 @@
   "exports": {},
   "tasks": {},
   "license": "MIT",
-  "imports": {}
+  "imports": {
+    "@effect/platform": "npm:@effect/platform@^0.82.3",
+    "effect": "npm:effect@^3.15.2"
+  }
 }
